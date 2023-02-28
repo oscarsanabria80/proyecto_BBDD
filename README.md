@@ -13,5 +13,3 @@
 * Borra los contratos y el colegido por su numero de identificacion.
 
 * Aumentar los honorarios del contrato de un Administrador con su numero de colegiado.
-
-* Salir.
