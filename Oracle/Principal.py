@@ -1,5 +1,5 @@
 from Funciones import *
-db = Conectar('Tarea10','usuario','localhost')
+db = Conectar('orapyt','1234','localhost')
 
 salir = False
 
