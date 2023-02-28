@@ -1,5 +1,5 @@
 from Funciones import *
-db = Conectar('localhost','postgres','usuario','proyecto')
+db = Conectar('localhost','postgres','usuario','postpy')
 
 salir = False
 
