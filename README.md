@@ -1,17 +1,17 @@
 # proyecto_BBDD
 
-*Listar administradores.
+* Listar administradores.
 
-*Buscar Administrador por intervalos de Honorarios.
+* Buscar Administrador por intervalos de Honorarios.
 
-*Buscar Comunidad por Provincia.
+* Buscar Comunidad por Provincia.
 
-*Mostrar el nombre de la comunidad que han tenido contrato con el Administrador X.
+* Mostrar el nombre de la comunidad que han tenido contrato con el Administrador X.
 
-*Insertar nueva Comunidad.
+* Insertar nueva Comunidad.
 
-*Borra los contratos y el colegido por su numero de identificacion.
+* Borra los contratos y el colegido por su numero de identificacion.
 
-*Aumentar los honorarios del contrato de un Administrador con su numero de colegiado.
+* Aumentar los honorarios del contrato de un Administrador con su numero de colegiado.
 
-*Salir.
+* Salir.
