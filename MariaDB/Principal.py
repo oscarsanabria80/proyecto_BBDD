@@ -1,5 +1,5 @@
 from Funciones import *
-db = Conectar("localhost","oscar","oscar","hola")
+db = Conectar("localhost","oscar","oscar","mapyt")
 
 salir = False
 
